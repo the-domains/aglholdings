@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AGL Holdings]]></title>
+        <description><![CDATA[AGL Holdings]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Apr 2016 18:22:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/691d9e49-bca5-4d38-b5e4-c97ed45e7c5d.jpg">]]></description>
+            <link>undefined671f131a-8781-4e21-8ffb-2ce4af1a594f/index.html</link>
+            <guid isPermaLink="false">671f131a-8781-4e21-8ffb-2ce4af1a594f</guid>
+            <pubDate>Sat, 23 Apr 2016 18:22:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
